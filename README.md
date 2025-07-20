@@ -1,3 +1,4 @@
+## Prepare Mining in Bittensor
 ### Test Your LLM in Local
 Ask a locally installed LLM to make sure it provides the correct answer. This process is necessary when tuning the model or prompting it to satisfy the answer conditions required by subnet.
 
